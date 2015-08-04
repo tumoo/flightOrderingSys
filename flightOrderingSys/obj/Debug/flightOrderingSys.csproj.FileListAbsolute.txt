@@ -2,9 +2,9 @@ d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys
 d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\bin\Debug\flightOrderingSys.exe
 d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\bin\Debug\flightOrderingSys.pdb
 d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\obj\Debug\flightOrderingSys.csprojResolveAssemblyReference.cache
-d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\obj\Debug\flightOrderingSys.Form1.resources
 d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\obj\Debug\flightOrderingSys.Properties.Resources.resources
 d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\obj\Debug\flightOrderingSys.csproj.GenerateResource.Cache
 d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\obj\Debug\flightOrderingSys.exe
 d:\mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\obj\Debug\flightOrderingSys.pdb
 D:\Mod\Documents\Visual Studio 2013\Projects\flightOrderingSys\flightOrderingSys\obj\Debug\flightOrderingSys.Main.resources
+D:\Mod\documents\visual studio 2013\Projects\flightOrderingSys\flightOrderingSys\obj\Debug\flightOrderingSys.login.resources
